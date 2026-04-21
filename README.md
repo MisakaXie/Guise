@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; flex-flow: column; align-items: center;">
     <h1>Guise</h1>
     <h5 style="margin-top: -5px;">用于机型伪装的Xposed模块</h5>
-    <h5 style="margin-top: -2px;">Xposed module for model disguise</h5>
+    <h5 style="margin-top: -2px;">Xposed module for Android device model disguise</h5>
     </br>
 
 
